@@ -171,6 +171,8 @@ CONFIG_APPTRACE_LOCK_ENABLE=y
 # CONFIG_ASIO_SSL_SUPPORT is not set
 # end of ESP-ASIO
 
+# CONFIG_AWS_IOT_SDK is not set
+
 #
 # Bluetooth
 #
