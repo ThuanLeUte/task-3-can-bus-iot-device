@@ -39,9 +39,9 @@ extern "C" {
 #include "esp_system.h"
 #include "esp_log.h"
 #include "esp_err.h"
-#include "esp_clk.h"
+#include "esp32/clk.h"
 #include "esp_wifi.h"
-#include "esp_event_loop.h"
+#include "esp_event.h"
 
 /* Public defines ----------------------------------------------------- */
 /* Public enumerate/structure ----------------------------------------------- */
